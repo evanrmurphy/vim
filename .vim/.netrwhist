@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/evanrmurphy/programas/js/node/express/lib/router'
+let g:netrw_dirhist_2='/home/evanrmurphy/programas/js/baconjs/todomvc/labs/architecture-examples/baconjs'
+let g:netrw_dirhist_3='/home/evanrmurphy/mycalenday/muthu/app/assets/javascripts/views'
+let g:netrw_dirhist_4='/home/evanrmurphy/.vim/ftplugin'
